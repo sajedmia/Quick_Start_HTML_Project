@@ -1,0 +1,14 @@
+/*
+---------------------------------------------------------
+ > - All files of Vendor folder are included here
+------------------------------------------------------- */
+ 
+/* Bootstrap CSS */
+@import url('bootstrap/css/bootstrap.min.css');
+/* Fontawesome CSS */
+@import url('fontawesome/css/all.min.css');
+@import url('fontawesome/css/fontawesome.min.css');
+/* Animate CSS */
+@import url('animate/animate.css');
+
+
