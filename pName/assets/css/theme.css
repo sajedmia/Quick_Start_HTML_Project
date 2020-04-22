@@ -1,0 +1,125 @@
+/*
+==================================
+Theme Name:
+Description: 
+Version: 1.0
+Author: SmSajed
+Website: http://smsajed.ml
+===================================
+*/
+
+/*
+******************************************************************************
+   > INDEX OF THEME CSS
+   ^^^^^^^^^^^^^^^^^^^^^
+	1.0 - Global CSS
+	2.0 - Common CSS
+	3.0 - Header Area
+	
+   > ANOTHER PAGE CSS 
+   ^^^^^^^^^^^^^^^^^^^
+	5.0	- 404 Page 
+******************************************************************************
+*/
+
+/*
+FONT FAMILY USE:
+~~~~~~~~~~~~~~~~
+	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Poppins', sans-serif;
+*/
+
+/*
+COLOR USE:
+~~~~~~~~~~~~~~~~
+	Content: #7f7f7f
+	Heading: #11193d;
+	Bacground: #26476c
+	Anchor : #11193d;
+	Hover Color: #febd00
+*/
+
+/*
+----------------------------------------------------------------------------------------
+ > 1.0 - Global CSS
+---------------------------------------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700|Ubuntu:400,300,700');
+@import url('nav.css');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 24px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #7f7f7f;
+	padding: 0;
+	margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Ubuntu', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+h2,
+h3,
+h4 {
+    font-weight: 700;
+    color: #11193d;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 18px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+a {
+    transition: 0.2s;
+     -moz-transition: 0.2s;
+	 -webkit-transition: 0.2s;
+	 -o-transition: 0.2s;
+    color: #11193d;
+	outline: none;
+}
+a:hover {
+    color: #337ab7;
+}
+a,
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+p {
+    color: #7f7f7f;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+/*
+----------------------------------------------------------------------------------------
+ > 1.0 - Common CSS
+---------------------------------------------------------------------------------------- */
+section {
+	
+}
+/*
+----------------------------------------------------------------------------------------
+ > 1.0 - Header Area
+---------------------------------------------------------------------------------------- */
+header {
+	
+}
